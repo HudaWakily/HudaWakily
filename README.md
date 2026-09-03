@@ -1,4 +1,4 @@
-## Hi there! I am Norul Hoda Wakily👋
+## Hi there! I am Hoda Wakily👋
 ### 💻 Full-Stack Developer | JavaScript | React/ Next.Js | Node.js
 
 I'm a passionate web developer focused on building modern, responsive,
