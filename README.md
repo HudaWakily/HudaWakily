@@ -1,5 +1,5 @@
 ## Hi there! I am Hoda Wakily👋
-### 💻 Full-Stack Developer | JavaScript | React/ Next.Js | Node.js
+### 💻 Full-Stack Developer | JavaScript |typescript| React/ Next.Js | Node.js
 
 I'm a passionate web developer focused on building modern, responsive,
 and user-friendly web applications.
